@@ -1,0 +1,38 @@
+[{
+  "id":1,
+  "username": "Jacques Gluke",
+  "tag": "jgluke",
+  "location": "Ocho Rios, Jamaica",
+  "avatar": "https://cdn-icons-png.flaticon.com/512/2922/2922506.png",
+  "stats": {
+    "followers": 5603,
+    "views": 4827,
+    "likes": 1308
+  },
+"difficulty":"Medium"
+},
+{"id":2,
+"username": "Marquise Malik",
+"tag": "gdfgd",
+"location": "Varadero, Cuba",
+"avatar": "https://cdn-icons-png.flaticon.com/512/2922/2922506.png",
+"stats": {
+  "followers": 400,
+  "views": 5000,
+  "likes": 560
+},
+"difficulty":"Easy"
+},
+{  "id":3,
+"username": "Anika Blum",
+"tag": "dfss",
+"location": "Ocho Rios, Jamaica",
+"avatar": "https://cdn-icons-png.flaticon.com/512/2922/2922506.png",
+"stats": {
+  "followers": 655,
+  "views": 322,
+  "likes": 2224
+},
+"difficulty":"Hard"
+}]
+
